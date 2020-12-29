@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.exe
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.deps.json
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.runtimeconfig.json
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.dll
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\bin\Debug\netcoreapp3.1\Variable_Constants_For.pdb
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.AssemblyInfo.cs
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.dll
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.pdb
+C:\Users\victo\source\repos\Variable_Constants_For\Variable_Constants_For\obj\Debug\netcoreapp3.1\Variable_Constants_For.genruntimeconfig.cache
